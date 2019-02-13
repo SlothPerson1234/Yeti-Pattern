@@ -27,6 +27,7 @@ def pattern
 	if ct == "No" or ct == "no" or ct == "NO"
 		abort
 	end
+	clear
 	pattern
 end
 clear
